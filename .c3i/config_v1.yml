@@ -48,6 +48,7 @@ tasks:
     large_timeout_references:
       - boost
       - qt
+      - llvm
   cci:
     conan_v2_run_export: false
     write_comments: true
